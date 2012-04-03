@@ -1,7 +1,10 @@
 My Shell Script for Ubuntu
 ==========================================
-* oneconf-diff.sh
+
+#### oneconf-diff.sh
+
   output defferent package between specified ubuntu machine.
 
-* oneconf-update.sh
+#### oneconf-update.sh
+
   update package info on UbuntuOne
